@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a9093ad-7d7c-4ca8-83bf-87f1e29882ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/modules/progfun1-funsets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/modules/progfun1-funsets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/modules/root-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/modules/root-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$1a83b21a769723af1e33$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$1a83b21a769723af1e33$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$1a83b21a769723af1e33.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$1a83b21a769723af1e33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$41a4ededd97f90c5d05f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$41a4ededd97f90c5d05f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$41a4ededd97f90c5d05f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$6af8a8a1e1ed1cba4540$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$6af8a8a1e1ed1cba4540$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$6af8a8a1e1ed1cba4540.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$6af8a8a1e1ed1cba4540.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$7c7337eee2d946a3c540$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$7c7337eee2d946a3c540$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$7c7337eee2d946a3c540.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$7c7337eee2d946a3c540.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$d5621efe86d6b1f0fe7f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$d5621efe86d6b1f0fe7f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$d5621efe86d6b1f0fe7f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$d6bcc401a2ee7d6bc7fa$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$d6bcc401a2ee7d6bc7fa.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$d6bcc401a2ee7d6bc7fa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$eac6892d182f3593c20c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$eac6892d182f3593c20c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$eac6892d182f3593c20c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/project/target/config-classes/$eac6892d182f3593c20c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$1a49c9599cd275037bd2$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$1a49c9599cd275037bd2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$1a49c9599cd275037bd2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$1a49c9599cd275037bd2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$1c9b9d7238bc5f29dcc3$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$1c9b9d7238bc5f29dcc3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$1c9b9d7238bc5f29dcc3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$1c9b9d7238bc5f29dcc3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$30fc33a960dbda6864b6$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$30fc33a960dbda6864b6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$30fc33a960dbda6864b6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$30fc33a960dbda6864b6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$4da41738ac4c9fcbd418$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$4da41738ac4c9fcbd418$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$4da41738ac4c9fcbd418.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$4da41738ac4c9fcbd418.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$557f3ca79c513392fcf4$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$557f3ca79c513392fcf4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$557f3ca79c513392fcf4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$557f3ca79c513392fcf4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$5ceb37fb62b8218aa9d2$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$5ceb37fb62b8218aa9d2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$5ceb37fb62b8218aa9d2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$5ceb37fb62b8218aa9d2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$6fce790ead5911900248$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$6fce790ead5911900248$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$6fce790ead5911900248$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$6fce790ead5911900248.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$6fce790ead5911900248.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$b92b44b28e1bf880c10b$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$b92b44b28e1bf880c10b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$b92b44b28e1bf880c10b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$b92b44b28e1bf880c10b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$f2e7caad683f8dbff337$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$f2e7caad683f8dbff337$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$f2e7caad683f8dbff337.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$f2e7caad683f8dbff337.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$f722e2dc07167597ccf1$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$f722e2dc07167597ccf1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$f722e2dc07167597ccf1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/config-classes/$f722e2dc07167597ccf1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/classes/StudentBuildLike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/default/funsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/default/funsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/default/funsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/default/funsets-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-funsets-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/src/main/scala/funsets/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/src/main/scala/funsets/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/target/scala-2.11/classes/funsets/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/target/scala-2.11/classes/funsets/Main$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../funsets/target/scala-2.11/classes/funsets/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../funsets/target/scala-2.11/classes/funsets/Main.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1113827866">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="sbt" value="2" />
+          <entry key="scala" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Scala" value="8" />
+          <entry key="sbt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="scala" value="318" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Scala" value="318" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="161" column="60" selection-start-line="161" selection-start-column="60" selection-end-line="161" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetReader.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="48" />
+    <option name="y" value="24" />
+    <option name="width" value="1221" />
+    <option name="height" value="737" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="objsets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="objsets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569432816743" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TweetSetSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TweetSetSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-objsets" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/objsets/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="root-build [file:/Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/objsets/]" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2315116761" />
+        <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2571602370" />
+        <entry key="$PROJECT_DIR$/project/Courses.scala" value="3825051450" />
+        <entry key="$PROJECT_DIR$/project/GradingFeedback.scala" value="647646337" />
+        <entry key="$PROJECT_DIR$/project/ScalaTestRunner.scala" value="1073251015" />
+        <entry key="$PROJECT_DIR$/project/Settings.scala" value="3896389775" />
+        <entry key="$PROJECT_DIR$/project/StudentBuild.scala" value="2270748580" />
+        <entry key="$PROJECT_DIR$/project/StudentBuildLike.scala" value="1951503120" />
+        <entry key="$PROJECT_DIR$/project/StyleChecker.scala" value="3016454982" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1075804536" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2557134551" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2764601182" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../funsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/[Coursera]-Fun-Scala/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/[Coursera]-Fun-Scala/recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a9093ad-7d7c-4ca8-83bf-87f1e29882ba" name="Default Changelist" comment="" />
+      <created>1569415087189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569415087189</updated>
+      <workItem from="1569415088481" duration="5349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5349000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="48" y="24" width="1221" height="737" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24936387" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.1007752" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment.sbt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetData.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1774">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetReader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="161" column="60" selection-start-line="161" selection-start-column="60" selection-end-line="161" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
