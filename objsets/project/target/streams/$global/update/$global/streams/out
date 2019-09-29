@@ -11518,7 +11518,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.7!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 4853ms :: artifacts dl 65ms
+[debug] :: resolution report :: resolve 2024ms :: artifacts dl 52ms
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT compile produced in /Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/objsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-compile.xml
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT runtime produced in /Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/objsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-runtime.xml
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT test produced in /Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/objsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-test.xml
@@ -11532,5 +11532,5 @@
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT docs produced in /Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/objsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-docs.xml
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT pom produced in /Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/objsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-pom.xml
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT scala-tool produced in /Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/objsets/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-objsets-build-scala-tool.xml
-[debug] 	resolve done (4853ms resolve - 65ms download)
+[debug] 	resolve done (2024ms resolve - 52ms download)
 [info] Done updating.
