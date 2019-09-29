@@ -113,7 +113,6 @@ object Huffman {
       case _ => trees
     }
 
-  
   /**
    * This function will be called in the following way:
    *
