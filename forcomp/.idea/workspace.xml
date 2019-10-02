@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d858f197-9eaf-458e-a32a-3c2a2b80f9da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="78515fc1-ff0c-4881-9250-03eb63fe4ec8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-forcomp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/root-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -19,44 +32,42 @@
     </projectState>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="711587240">
+    <session id="-818862185">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="scala" value="3" />
+          <entry key="scala" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Scala" value="3" />
+          <entry key="Scala" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="scala" value="180" />
+          <entry key="scala" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="180" />
+          <entry key="Scala" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/forcomp/Anagrams.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="114" selection-start-line="114" selection-end-line="114" />
+            <state relative-caret-position="224">
+              <caret line="170" column="46" selection-start-line="170" selection-start-column="28" selection-end-line="170" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -69,7 +80,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/forcomp/Anagrams.scala" />
       </list>
     </option>
   </component>
@@ -91,61 +102,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
+              <item name="forcomp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forcomp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
+              <item name="forcomp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forcomp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
+              <item name="forcomp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forcomp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
+              <item name="forcomp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forcomp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="progfun1-patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
+              <item name="forcomp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="forcomp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
+              <item name="forcomp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -156,7 +146,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569772758617" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570005739273" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -173,23 +163,23 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="HuffmanSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="progfun1-patmat" />
+    <configuration name="AnagramsSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-forcomp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patmat.*" />
+          <option name="PATTERN" value="forcomp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="patmat" />
-      <option name="MAIN_CLASS_NAME" value="patmat.HuffmanSuite" />
+      <option name="PACKAGE_NAME" value="forcomp" />
+      <option name="MAIN_CLASS_NAME" value="forcomp.AnagramsSuite" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HuffmanSuite" />
+        <item itemvalue="JUnit.AnagramsSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -199,18 +189,18 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="progfun1-patmat" />
+              <option name="name" value="progfun1-forcomp" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="root [file:/Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/patmat/]" />
+                <option name="name" value="root [file:/Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/forcomp/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="root-build [file:/Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/patmat/]" />
+                <option name="name" value="root-build [file:/Users/mahzad.kalantari/Documents/Coursera-Fun-Scala/Functional-Programming-Principles-in-Scala/forcomp/]" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -238,6 +228,7 @@
       <map>
         <entry key="$PROJECT_DIR$/../funsets" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../patmat" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../funsets" value="PREVIEW" />
         <entry key="$USER_HOME$/[Coursera]-Fun-Scala/example" value="PREVIEW" />
         <entry key="$USER_HOME$/[Coursera]-Fun-Scala/recfun" value="PREVIEW" />
@@ -249,35 +240,46 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d858f197-9eaf-458e-a32a-3c2a2b80f9da" name="Default Changelist" comment="" />
-      <created>1569594534494</created>
+      <changelist id="78515fc1-ff0c-4881-9250-03eb63fe4ec8" name="Default Changelist" comment="" />
+      <created>1570005013095</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569594534494</updated>
-      <workItem from="1569594535844" duration="344000" />
-      <workItem from="1569751555455" duration="3431000" />
+      <updated>1570005013095</updated>
+      <workItem from="1570005014757" duration="773000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HuffmanSuite - 2019.09.29 at 17h 17m 31s.xml">
-      <configuration name="HuffmanSuite" configurationId="JUnit" />
+    <history-entry file="AnagramsSuite - 2019.10.02 at 10h 38m 34s.xml">
+      <configuration name="AnagramsSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AnagramsSuite - 2019.10.02 at 10h 39m 48s.xml">
+      <configuration name="AnagramsSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AnagramsSuite - 2019.10.02 at 10h 41m 17s.xml">
+      <configuration name="AnagramsSuite" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3775000" />
+    <option name="totallyTimeSpent" value="773000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="24" width="1221" height="737" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25360474" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24936387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32868218" />
+      <window_info anchor="bottom" id="Build" weight="0.32868218" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32868218" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32868218" />
@@ -285,23 +287,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32868218" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32868218" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="sbt" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Gradle" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,24 +307,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12-sources.jar!/scala/Predef.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/forcomp/Anagrams.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="133" column="6" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-550">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        <state relative-caret-position="224">
+          <caret line="170" column="46" selection-start-line="170" selection-start-column="28" selection-end-line="170" selection-end-column="47" />
         </state>
       </provider>
     </entry>
